@@ -1,0 +1,62 @@
+marquee{
+  height: auto;
+  width: 1185px;
+  direction: left;
+  background-color: blue;
+}
+.sai{
+  color:white;
+}
+
+p{
+  padding-left: 80px;
+  padding-right: 60px;
+  font-size: 21px;
+  color: black;
+  font-family: 'Delius', cursive;
+}
+h1{
+  padding-left: 200px;
+    color: black;
+font-family: 'Bungee Shade', cursive;
+font-size: 35px;
+color: magenta;
+}
+h2{
+  padding-left: 60px;
+  padding-right: 60px;
+    color: black;
+}
+img{
+  padding-left: 300px;
+
+}
+body{
+  background-color:lightblue;
+  border-left: 20px solid yellow;
+}
+h3{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.sufirr{
+  padding-left: 60px;
+  padding-right: 60px;
+  color: black;
+  font-size: 22px;
+}
+.sea{
+  font-size: 22px;
+}
+.season{
+  font-size: 20px;
+}
+h4{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+h5{
+  padding-left: 60px;
+  padding-right: 60px;
+  font-size: 20px;
+}

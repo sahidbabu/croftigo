@@ -1,0 +1,66 @@
+body{
+  background-image: url("brown.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  width: 290px;
+  height: 200px;
+}
+.aa{
+  padding-left: 400px;
+}
+.b{
+  padding-left: 400px;
+}
+.c{
+  padding-left: 400px;
+}
+.d{
+  padding-left: 400px;
+}
+#vJ{
+  font-size: 30px;
+  color: brown;
+  font-family: 'Eczar', serif;
+}
+
+.sandy{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  margin: 20px;
+    padding: 50px;
+}
+
+.silty{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+.clay{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+.loamy{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+li{
+  font-family: 'Rancho', cursive;
+  font-size: 20px;
+}
+h1{
+  color: rgb(21, 2, 189);
+  font-family: 'Lora', serif;
+}
